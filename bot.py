@@ -20,5 +20,5 @@ bot = Client(
     Config.API_ID,
     Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
-    plugins=dict(root="plugins")
+    plugins=dict(root="gins")
 )
